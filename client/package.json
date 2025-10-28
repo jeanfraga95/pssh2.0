@@ -21,6 +21,9 @@
     "styled-components": "^6.1.6",
     "web-vitals": "^2.1.4"
   },
+  "resolutions": {
+  "eslint-config-react-app": "latest"
+},
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
